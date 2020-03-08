@@ -1,0 +1,10 @@
+corregir skydrive por onedrive
+	video de youtube eliminado
+		nuevo link https://www.youtube.com/watch?v=_pqWQptTkCw
+
+corregir onenote
+
+corregir referencias (quitar duplicado y agregar el nuevo)
+
+*como sugerencia usar github en todas las practicas, no solo que se quede en el olvido
+

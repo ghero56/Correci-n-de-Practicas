@@ -1,0 +1,3 @@
+enter en actividades
+
+utilidad de la funcion include y multiarchivos (.c y .h)

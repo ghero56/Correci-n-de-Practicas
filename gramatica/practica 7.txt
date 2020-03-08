@@ -1,0 +1,7 @@
+falta un enter
+
+hablar sobre la diferencia de operadores logicos y expresiones logicas
+
+mencionar que se vera mas adelanta la depuracion
+
+posincremento o posTincremento

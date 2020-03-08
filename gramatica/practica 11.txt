@@ -1,0 +1,3 @@
+enter en actividades
+
+pequeña grafica de los arreglos multidimencionales (2 ejes, 3 ejes)

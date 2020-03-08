@@ -1,0 +1,9 @@
+cambiar vi por vim
+
+recomendacion: mostrar aplicaciones moviles capaces de compilar sin entorno grafico
+
+utilizar github atom
+
+corregir lo de [archivo].out (dejarlo en solo [archivo])
+	//quitar lo de añadir librerias al compilador e incluirlas dentro del C
+

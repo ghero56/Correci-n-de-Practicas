@@ -1,0 +1,3 @@
+enter en actividades
+
+separar la anidacion del if else

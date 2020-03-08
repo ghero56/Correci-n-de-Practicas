@@ -1,0 +1,3 @@
+enter en actividades
+
+en la parte de define incluir la sintaxis del archivo "acentos.h" y explicarla junto con include
